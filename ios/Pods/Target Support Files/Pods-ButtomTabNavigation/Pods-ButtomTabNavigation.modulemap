@@ -1,0 +1,6 @@
+module Pods_ButtomTabNavigation {
+  umbrella header "Pods-ButtomTabNavigation-umbrella.h"
+
+  export *
+  module * { export * }
+}
