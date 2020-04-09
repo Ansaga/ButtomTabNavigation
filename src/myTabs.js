@@ -2,6 +2,7 @@ import * as React from 'react';
 import MaterialIcons from "react-native-vector-icons/MaterialIcons";
 import {createBottomTabNavigator} from '@react-navigation/bottom-tabs';
 import Home from "./home";
+import HomeSecond from "./homeSecond";
 import Update from "./update";
 import Profile from "./profile";
 const Tab = createBottomTabNavigator();
