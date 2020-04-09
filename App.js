@@ -15,14 +15,14 @@ export default class App extends React.Component {
 
   render() {
     return (
-      // Tab Buoons
+      // Tab Buttons
       ///
-      // <NavigationContainer>
-      //   <MyTabs/>
-      // </NavigationContainer>
+      <NavigationContainer>
+        <MyTabs/>
+      </NavigationContainer>
 
       // Stack Change Page
-      <HomeSecond/>
+      // <HomeSecond/>
     );
   }
 }
